@@ -37,11 +37,13 @@ class StopWatchViewController: UIViewController {
         startButton.translatesAutoresizingMaskIntoConstraints = false
         resetButton.translatesAutoresizingMaskIntoConstraints = false
         
+        
         startButton.setTitleColor(UIColor(rgb: 0x73B177), for: .normal)
         startButton.backgroundColor = UIColor(rgb: 0x203621)
         
         resetButton.setTitleColor(UIColor(rgb: 0xffffff), for: .normal)
         resetButton.backgroundColor = UIColor(rgb: 0x3D3D3D)
+        
         
         
     }

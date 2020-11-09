@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		68D441292559AE3D002C5584 /* TimerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F6862125596A9700F8B60D /* TimerViewController.swift */; };
 		68F686042559471000F8B60D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F686032559471000F8B60D /* AppDelegate.swift */; };
 		68F686062559471000F8B60D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F686052559471000F8B60D /* SceneDelegate.swift */; };
 		68F6860B2559471000F8B60D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68F686092559471000F8B60D /* Main.storyboard */; };
 		68F6860D2559471200F8B60D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 68F6860C2559471200F8B60D /* Assets.xcassets */; };
 		68F686102559471200F8B60D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68F6860E2559471200F8B60D /* LaunchScreen.storyboard */; };
 		68F6861F25594D1800F8B60D /* StopWatchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F6861E25594D1800F8B60D /* StopWatchViewController.swift */; };
-		68F6862225596A9700F8B60D /* TimerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F6862125596A9700F8B60D /* TimerViewController.swift */; };
 		68F686262559714400F8B60D /* CustomButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F686252559714400F8B60D /* CustomButtons.swift */; };
 		68F686292559743A00F8B60D /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68F686282559743A00F8B60D /* Extensions.swift */; };
 /* End PBXBuildFile section */
@@ -147,10 +147,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				68F686262559714400F8B60D /* CustomButtons.swift in Sources */,
-				68F6862225596A9700F8B60D /* TimerViewController.swift in Sources */,
 				68F686042559471000F8B60D /* AppDelegate.swift in Sources */,
 				68F6861F25594D1800F8B60D /* StopWatchViewController.swift in Sources */,
 				68F686062559471000F8B60D /* SceneDelegate.swift in Sources */,
+				68D441292559AE3D002C5584 /* TimerViewController.swift in Sources */,
 				68F686292559743A00F8B60D /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
